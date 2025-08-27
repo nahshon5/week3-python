@@ -1,0 +1,5 @@
+Python is powerful.
+This is my input file.
+We are learning file handling.
+Git makes version control easier.
+Practice makes perfect.
